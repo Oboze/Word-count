@@ -2,6 +2,10 @@
     width:400px;
     margin:auto;
    }
+   #count, #word-count{
+       color:red;
+       font-weight: 700;
+   }
    #btn-clear{
      color:white;
      background-color: royalblue;
