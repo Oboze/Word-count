@@ -1,0 +1,13 @@
+.container{
+    width:400px;
+    margin:auto;
+   }
+   #btn-clear{
+     color:white;
+     background-color: royalblue;
+     border-radius: 5px;
+     padding: 5px;
+     margin-top:10px;
+     font-weight: 900;
+     
+   }
